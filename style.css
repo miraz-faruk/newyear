@@ -1,0 +1,39 @@
+/*Header section -- start*/
+.header {
+  background-image: url("images/banner/banner2.png");
+  background-repeat: no-repeat;
+  height: 810px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.header-content {
+  text-align: right;
+  width: 30%;
+  margin-right: 230px;
+}
+
+.header-content h1 {
+  font-size: 65px;
+  font-weight: bold;
+}
+
+.header-content p {
+  font-size: 16px;
+  color: gray;
+}
+
+.btn-header {
+  padding: 15px 25px;
+  border-radius: 5px;
+  background-color: #f15b22;
+  color: white;
+  border-color: transparent;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/*Header section -- start*/
+
+/* section -- start*/
