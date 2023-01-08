@@ -36,4 +36,30 @@
 
 /*Header section -- start*/
 
-/* section -- start*/
+/* Second section -- start*/
+.second {
+  width: 70%;
+  margin: 130px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.second-content {
+  width: 400px;
+}
+
+.second h3 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.second p {
+  color: gray;
+}
+
+.check {
+  margin-right: 3px;
+  color: seagreen;
+}
+/* Second section -- end*/
