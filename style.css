@@ -97,3 +97,40 @@ h5 {
   font-size: 25px;
 }
 /* Third section -- end*/
+
+/* fourth section -- start*/
+.fourth {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.fourth-body {
+  background-image: linear-gradient(
+      to right,
+      rgba(241, 91, 34, 1),
+      rgba(255, 0, 0, 0)
+    ),
+    url("images/watch.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-left: 60px;
+}
+
+.fourth-body h3 {
+  color: white;
+  width: 50%;
+  padding-top: 40px;
+  margin-bottom: 20px;
+}
+
+.btn-call {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: white;
+  color: #f15b22;
+  border-color: transparent;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+/* fourth section -- end*/
