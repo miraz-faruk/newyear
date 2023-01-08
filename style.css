@@ -102,6 +102,7 @@ h5 {
 .fourth {
   width: 70%;
   margin: 0 auto;
+  margin-bottom: 100px;
 }
 
 .fourth-body {
@@ -134,3 +135,53 @@ h5 {
   margin-bottom: 40px;
 }
 /* fourth section -- end*/
+
+/* footer start */
+footer {
+  height: 577px;
+  background-color: #151414;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 230px;
+}
+
+footer h4 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+.footer-left {
+  width: 50%;
+}
+
+.subscribe {
+  display: flex;
+  flex-direction: column;
+}
+
+.subscribe input {
+  background-color: #151414;
+  border-color: white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.btn-subscribe {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: white;
+  color: #f15b22;
+  border-color: transparent;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+/* footer end */
